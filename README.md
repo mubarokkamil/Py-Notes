@@ -16,4 +16,6 @@ This repository contains structured Python notes for beginners.
 8. [Day-8: Taking User Input in python](day8.md)
 9. [Day-9: String](day9.md)
 10. [Day-10: String Slicing and Length](day10.md)
-11. [Day-11: String Method](day11.md)
+11. [Day-11: String Method-1](day11.md)
+12. [Day-12: String Method-2](day12.md)
+13. [Day-13: String Method-3](day13.md)
