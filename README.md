@@ -19,3 +19,7 @@ This repository contains structured Python notes for beginners.
 11. [Day-11: String Method-1](day11.md)
 12. [Day-12: String Method-2](day12.md)
 13. [Day-13: String Method-3](day13.md)
+14. [Day-14: If-Else-Conditionals](day14.md)
+15. [Day-15: Nested if-else-elif](day15.md)
+16. [Day-16: Match Case Statements](day16.md)
+17. [Day-17: The "For Loop" & Range](day17.md)
